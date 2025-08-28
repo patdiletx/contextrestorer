@@ -117,56 +117,6 @@ Aquí tienes el contenido completo y actualizado del archivo SPEC.md, listo para
 📄 SPEC.md – Especificación Técnica Viva de ContextRestorer
 markdown
 
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-⌄
-⌄
-⌄
-⌄
-⌄
-⌄
 # 🧠 ContextRestorer – Especificación Técnica Viva
 
 > **App de Restauración de Contexto Cognitivo y Estimulación Productiva**  
@@ -239,8 +189,6 @@ contextrestorer/
 ├── tsconfig.json
 └── electron-builder.json
 
-
----
 
 ## 💾 Modelo de Datos (SQLite)
 
